@@ -11,7 +11,7 @@ Existem 4 tipos de bancos de dados NoSQL definidos pela forma como armazenam os 
 
 - Documentos
 - Grafos
-- Chave Valor
+- Chave-Valor
 - Wide Column Store
 
 **Documentos:**
